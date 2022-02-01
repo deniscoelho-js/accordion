@@ -1,5 +1,7 @@
 # Accordion
 
+![Feb-01-2022 09-16-22](https://user-images.githubusercontent.com/83840866/151967223-96d32458-7d63-4651-9248-77389cc72ea3.gif)
+
 ## Tecnologias
 
 - [`React`]()
