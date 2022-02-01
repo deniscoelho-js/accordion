@@ -2,8 +2,6 @@
 
 ## Tecnologias
 
-Este projeto foi desenvolvido utilizando as seguintes tecnologias:
-
 - [`React`]()
 - [`Javascript`]()
 - [`CSS`]()
